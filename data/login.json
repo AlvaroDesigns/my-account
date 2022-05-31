@@ -1,0 +1,68 @@
+{
+  "header": {
+    "logo": {
+      "src": "/images/logo_alvarodesigns.png",
+      "url": ""
+    },
+    "nav": [
+      {
+        "title": "Home",
+        "href": "#",
+        "current": true
+      },
+      {
+        "title": "Work",
+        "href": "#",
+        "current": false
+      },
+      {
+        "title": "Products",
+        "href": "#",
+        "current": false
+      },
+      {
+        "title": "Contact",
+        "href": "#",
+        "current": false
+      }
+    ]
+  },
+  "imagesBg": [
+    {
+      "src": "/images/bg_login1.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/images/bg_login3.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/images/bg_login4.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "/images/bg_login5.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "../images/bg_login6.jpeg",
+      "alt": ""
+    }
+  ],
+  "notifications": [
+    {
+      "id": 3,
+      "title": "info",
+      "description": "This is an info toast component",
+      "backgroundColor": "#5bc0de",
+      "icon": "infoIcon"
+    },
+    {
+      "id": 4,
+      "title": "Warning",
+      "description": "This is a warning toast component",
+      "backgroundColor": "#f0ad4e",
+      "icon": "warningIcon"
+    }
+  ]
+}

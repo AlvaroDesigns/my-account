@@ -1,0 +1,119 @@
+{
+  "button": {
+    "title": "Contacta con nosotros",
+    "url": "#"
+  },
+  "video": "",
+  "icon": "",
+  "header": {
+    "logo_white": "/images/logo_alvarodesigns.png",
+    "logo_black": "/images/alvarodesigns_logo.png",
+    "nav": [
+      {
+        "title": "Home",
+        "href": "#",
+        "current": true
+      },
+      {
+        "title": "Work",
+        "href": "#",
+        "current": false
+      },
+      {
+        "title": "Products",
+        "href": "#",
+        "current": false
+      },
+      {
+        "title": "Contact",
+        "href": "#",
+        "current": false
+      }
+    ]
+  },
+  "hero": {
+    "image": "/images/bg_home.jpeg",
+    "subtitle": "Let’s Do This",
+    "title": "Designs For Music",
+    "button": {
+      "title": "Contacta con nosotros",
+      "url": "#"
+    },
+    "video": "",
+    "icon": ""
+  },
+  "cascade": {
+    "images": [
+      {
+        "src": "https://themenectar.com/salient/wp-content/uploads/sites/4/2010/02/brooke-cagle-g1Kr4Ozfoac-unsplash-6-1536x1022.jpg",
+        "alt": "",
+        "height": 200,
+        "width": 200
+      },
+      {
+        "src": "https://themenectar.com/salient/wp-content/uploads/sites/4/2010/02/brooke-cagle-g1Kr4Ozfoac-unsplash-6-1536x1022.jpg",
+        "alt": "",
+        "height": 200,
+        "width": 200
+      },
+      {
+        "src": "https://themenectar.com/salient/wp-content/uploads/sites/4/2010/02/brooke-cagle-g1Kr4Ozfoac-unsplash-6-1536x1022.jpg",
+        "alt": "",
+        "height": 200,
+        "width": 200
+      }
+    ],
+    "button": {
+      "title": "Ver más",
+      "url": "#"
+    },
+    "title": "Quienes somos",
+    "text": "Diseñamos y desarrollamos servicios para los clientes de todos los tamaños, que se especializa en la creación de sitios web, modernos y elegantes, servicios web flyer para todo el mundo en especial en Ibiza."
+  },
+  "masonry": [
+    {
+      "src": "/flyers/fabula@borabora.jpg"
+    },
+    {
+      "src": "/flyers/vagalume_mexico--ten_ibiza.jpg"
+    },
+    {
+      "src": "/flyers/you_eli_rojas.jpg"
+    },
+    {
+      "src": "/flyers/03116-Home@oliver.jpg"
+    },
+    {
+      "src": "/flyers/003887@maui@carlos.jpeg"
+    },    {
+      "src": "/flyers/Sergio-mussa-lio-ibiza.jpg"
+    }
+
+  ],
+  "products": {
+    "title": "Hacemos Que Sea Sencillo Compartir Tus Ideas",
+    "items": [
+      {
+        "icon": "Figma",
+        "title": "Diseño Web",
+        "description": "Realizamos todo tipo de diseños funcionales y ¡efectivos!: páginas web responsive, motores de reservas, programación web, tiendas online."
+      },
+      {
+        "icon": "Disc",
+        "title": "Duplicados De Cds",
+        "description": "Tenemos los mejores precios duplicados del cds del mercado con un buen producto y un diseño orientado a cada proyecto."
+      },
+      {
+        "icon": "Mail",
+        "title": "Mail Marketing",
+        "description": "Tenemos la fórmula profesional para que el envío masivo de mails funcione, porque es una práctica que está a la orden del día."
+      },
+      {
+        "icon": "Monitor",
+        "title": "Diseño Grafico",
+        "description": "¡Parecer grande te hace ser grande! Y el diseño sí importa, ya que la primera opinión de un cliente es lo que ve."
+      }
+    ]
+  }
+}
+

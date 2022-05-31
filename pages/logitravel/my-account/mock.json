@@ -1,0 +1,2147 @@
+{
+  "header": {
+    "logo": {
+      "src": "https://cdn.logitravel.com/comun/images/logos/svg/logitravel.svg",
+      "alt": "Ir a la home de Logitravel.com",
+      "link": {
+        "href": "https://www.logitravel.com/",
+        "title": "Logitravel, especialistas en vacaciones, cruceros y grandes viajes"
+      }
+    },
+    "nav_help": {
+      "contact": {
+        "href": "https://www.logitravel.com/contacto",
+        "content": "Contacto",
+        "title": "Contacta con Logitravel"
+      },
+      "faq": {
+        "href": "https://www.logitravel.com/preguntas-frecuentes",
+        "content": "Preguntas frecuentes",
+        "title": "Te ayudamos a resolver tus dudas"
+      }
+    },
+    "nav_primary": {
+      "items": [
+        {
+          "content": "Vacaciones",
+          "href": "https://www.logitravel.com/",
+          "skin": "holidays",
+          "title": "Especialistas en Vacaciones"
+        },
+        {
+          "content": "Destinos",
+          "href": "https://www.logitravel.com/viajes/destinos/",
+          "skin": "destinations",
+          "title": "Destinos para tus vacaciones"
+        },
+        {
+          "content": "Chollos",
+          "href": "https://www.logitravel.com/viajes-chollos/",
+          "skin": "deals",
+          "title": "Viajes Chollo"
+        },
+        {
+          "content": "Paquetes",
+          "href": "https://www.logitravel.com/viajes/",
+          "skin": "business-line packages",
+          "title": "Paquetes Vacacionales"
+        },
+        {
+          "content": "Hoteles de playa",
+          "href": "https://www.logitravel.com/hoteles-playa/",
+          "skin": "business-line coasts",
+          "title": "Hoteles baratos en costas e Islas",
+          "secondary_links": {
+            "group_links": [
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Selecciones",
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/hoteles/",
+                    "content": "Hoteles",
+                    "title": "Ofertas en Hoteles"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/apartamentos/",
+                    "content": "Apartamentos",
+                    "title": "Los mejores apartamentos de playa"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/ultima-hora--eyJjYW1wYWlnbiI6IjMxOSIsImxvYiI6IjUifQ==",
+                    "content": "Última Hora",
+                    "title": "Ofertas de último minuto"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/especial-todo-incluido--eyJjYW1wYWlnbiI6IjM0MyIsImxvYiI6IjUifQ==",
+                    "content": "Todo Incluido",
+                    "title": "Tus Hoteles con Todo Incluido"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/esqui/",
+                    "content": "Esquí",
+                    "title": "Hoteles en primera línea de playa"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Destinos",
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/hoteles/espana/madrid--eyJjaXR5IjoiNDUyMiJ9",
+                    "content": "Madrid ",
+                    "title": "Hoteles en Madrid"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles/espana/barcelona--eyJjaXR5IjoiNjUyIn0=",
+                    "content": "Barcelona",
+                    "title": "Hoteles en Barcelona"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles/espana/valencia--eyJjaXR5IjoiOTU5Mzg2OSJ9",
+                    "content": "Valencia ",
+                    "title": "Hoteles en Valencia "
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles/espana/granada--eyJjaXR5IjoiMjc2MCJ9",
+                    "content": "Granada",
+                    "title": "Hoteles en Granada"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles/espana/sevilla--eyJjaXR5IjoiNzA2MyJ9",
+                    "content": "Sevilla",
+                    "title": "Hoteles en Sevilla"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Islas",
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/mallorca--eyJ6b25lIjoiNzI3MiJ9",
+                    "content": "Mallorca",
+                    "title": "Hoteles en Mallorca"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/tenerife--eyJ6b25lIjoiMjQyOCJ9",
+                    "content": "Tenerife",
+                    "title": "Hoteles en Tenerife"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/menorca--eyJ6b25lIjoiNzI3MyJ9",
+                    "content": "Menorca",
+                    "title": "Hoteles en Menorca"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/gran-canaria--eyJ6b25lIjoiMjM4MyJ9",
+                    "content": "Gran Canaria",
+                    "title": "Hoteles en Gran Canaria"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/ibiza--eyJ6b25lIjoiNzI3NyJ9",
+                    "content": "Ibiza",
+                    "title": "Hoteles en Ibiza"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Costas",
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-de-almeria/roquetas-de-mar--eyJjaXR5IjoiMTE5NzgifQ==",
+                    "content": "Roquetas de Mar",
+                    "title": "Hoteles en Roquetas de Mar"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-dorada/salou--eyJjaXR5IjoiMTA4MzYifQ==",
+                    "content": "Salou",
+                    "title": "Hoteles en Salou"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-de-la-luz-huelva/matalascanas--eyJjaXR5IjoiMzAwMDAyNjQifQ==",
+                    "content": "Matalascañas",
+                    "title": "Hoteles en Matalascañas"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-blanca/benidorm--eyJjaXR5IjoiOTYyNjc3NCJ9",
+                    "content": "Benidorm ",
+                    "title": "Hoteles en Benidorm"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-de-la-luz-huelva/islantilla--eyJjaXR5IjoiMzAwMDQ3OTEifQ==",
+                    "content": "Islantilla",
+                    "title": "Hoteles en Islantilla"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Destacados",
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-de-la-luz-huelva/mazagon/ohtels-mazagon--hotel-455041",
+                    "content": "Ohtels Mazagón",
+                    "title": "Ofertas de Ohtels Mazagón"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-blanca/benidorm/port-benidorm-hotel-spa--hotel-2428",
+                    "content": "Port Benidorm Hotel",
+                    "title": "Ofertas de Port Benidorm Hotel"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-dorada/salou/hotel-best-cap-salou--hotel-2423",
+                    "content": "Best Cap Salou",
+                    "title": "Ofertas de Best Cap Salou"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-de-almeria/roquetas-de-mar/ohtels-fenix-family--hotel-2347",
+                    "content": "Ohtels Fenix Family",
+                    "title": "Ofertas de Ohtels Fenix en Roquetas de Mar"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/hoteles-playa/espana/costa-de-la-luz-huelva/el-rompido/precise-resort-el-rompido-the-club--hotel-1786",
+                    "content": "Precise Resort El Rompido The Club",
+                    "title": "Ofertas Precise Resort El Rompido The Club"
+                  }
+                ],
+                "skin": ""
+              }
+            ]
+          },
+          "extra_content": {
+            "image": {
+              "src": "/comun/images/bannersDyn/logi/logi_camisa.png",
+              "alt": ""
+            },
+            "descriptions": {
+              "items": [
+                {
+                  "content": "En familia, en pareja o con amigos las vacaciones saben mejor en un **hotel**"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "content": "Cruceros",
+          "href": "https://www.logitravel.com/cruceros/",
+          "skin": "business-line cruises",
+          "title": "Cruceros",
+          "secondary_links": {
+            "group_links": [
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Fechas especiales",
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/cruceros/chollos/",
+                    "content": "Ofertas última hora",
+                    "title": "Chollos de última hora"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-semana-santa/",
+                    "content": "Semana Santa",
+                    "title": "Cruceros Semana Santa 2022"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-en-primavera/",
+                    "content": "Primavera",
+                    "title": "Cruceros Primavera"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/verano-2022/",
+                    "content": "Verano",
+                    "title": "Cruceros Verano 2022"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-navidad-y-fin-de-ano/",
+                    "content": "Navidad y Fin de año",
+                    "title": "Cruceros Navidad y Fin de año"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-2023/",
+                    "content": "Cruceros 2023",
+                    "title": "Cruceros 2023"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Selecciones",
+                      "link": {
+                        "href": "https://www.logitravel.com/cruceros/selecciones/",
+                        "content": "",
+                        "title": "Selecciones",
+                        "target": ""
+                      },
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-especial-familias/",
+                    "content": "En familia",
+                    "title": "Cruceros recomendados para familias"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/ofertas/cruceros-senior-10869124.html",
+                    "content": "Mayores de 55 años",
+                    "title": "Ofertas y promociones para Senior"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-en-todo-incluido/",
+                    "content": "Todo Incluido",
+                    "title": "Cruceros todo incluido"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-con-vuelos/",
+                    "content": "Con Vuelos",
+                    "title": "Cruceros con vuelos incluidos"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-de-lujo/",
+                    "content": "De Lujo",
+                    "title": "Cruceros de Lujo y Premium"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/minicruceros/",
+                    "content": "MiniCruceros",
+                    "title": "Mini Cruceros"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Destinos",
+                      "link": {
+                        "href": "https://www.logitravel.com/cruceros/destinos/",
+                        "content": "",
+                        "title": "Destinos",
+                        "target": ""
+                      },
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/cruceros/destinos/mediterraneo-occidental/",
+                    "content": "Mediterráneo",
+                    "title": "Cruceros Mediterráneo occidental"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-islas-griegas/",
+                    "content": "Islas Griegas",
+                    "title": "Cruceros Islas Griegas"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/selecciones/cruceros-fiordos-noruegos/",
+                    "content": "Fiordos Noruegos",
+                    "title": "Cruceros fiordos noruegos"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/destinos/norte-de-europa-y-fiordos/",
+                    "content": "Norte de Europa",
+                    "title": "Cruceros norte de Europa y Fiordos Noruegos"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/destinos/caribe/",
+                    "content": "Caribe",
+                    "title": "Cruceros por el Caribe"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/destinos/vuelta-al-mundo/",
+                    "content": "Vuelta al mundo",
+                    "title": "Vuelta al mundo"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Top compañías",
+                      "link": {
+                        "href": "https://www.logitravel.com/cruceros/navieras/",
+                        "content": "",
+                        "title": "Top compañías",
+                        "target": ""
+                      },
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/cruceros/navieras/costa-cruceros/",
+                    "content": "Costa Cruceros",
+                    "title": "Costa Cruceros"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/navieras/msc-cruceros/",
+                    "content": "MSC Cruceros",
+                    "title": "MSC Cruceros"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/navieras/royal-caribbean/",
+                    "content": "Royal Caribbean",
+                    "title": "Cruceros Royal Caribbean"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/navieras/ncl-norwegian-cruise-line/",
+                    "content": "Norwegian Cruise Line",
+                    "title": "Norwegian Cruise Line"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/navieras/celestyal-cruises/",
+                    "content": "Celestyal Cruises",
+                    "title": "Celestyal Cruises"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/cruceros/navieras/celebrity-cruises/",
+                    "content": "Celebrity Cruises",
+                    "title": "Celebrity Cruises"
+                  }
+                ],
+                "skin": ""
+              }
+            ]
+          },
+          "extra_content": {
+            "image": {
+              "src": "/comun/images/bannersDyn/logi/logi_cruceros_capitan.png",
+              "alt": ""
+            },
+            "descriptions": {
+              "items": [
+                {
+                  "content": "Comodidad, relax, gastronomía, excursiones, espectáculos... ¡las auténticas **vacaciones 10**!"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "content": "Grandes Viajes",
+          "href": "https://www.logitravel.com/grandes-viajes/",
+          "skin": "business-line tours",
+          "title": "Circuitos, Viajes Combinados y Rutas en Coche",
+          "secondary_links": {
+            "group_links": [
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Grandes Viajes",
+                      "link": {
+                        "href": "https://www.logitravel.com/grandes-viajes/",
+                        "content": "",
+                        "title": "Grandes Viajes",
+                        "target": ""
+                      },
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/circuitos/",
+                    "content": "Circuitos",
+                    "title": "Viajes Organizados para no perder ni un solo detalle"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/combinados/",
+                    "content": "Viajes Combinados",
+                    "title": "Combinados a más de un destino totalmente flexibles y personalizables"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/rutas-en-coche/",
+                    "content": "Rutas en Coche",
+                    "title": "Rutas en Coche a tu aire, flexibles y personalizables"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/viajes-de-novios/",
+                    "content": "Viajes Luna de Miel",
+                    "title": "Viajes organizados de Lunas de Miel"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/privados/circuitos/",
+                    "content": "Circuitos Privados",
+                    "title": "Descubre los viajes organizados privados"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Recorre España",
+                      "link": {
+                        "href": "https://www.logitravel.com/grandes-viajes/europa/espana/",
+                        "content": "",
+                        "title": "Recorre España",
+                        "target": ""
+                      },
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/europa/espana/playa/",
+                    "content": "Islas y playas",
+                    "title": "Nuestras islas y playas"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/europa/espana/naturaleza/rutas-en-coche/",
+                    "content": "Naturaleza",
+                    "title": "Nuestra Naturaleza"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/europa/espana/culturales/",
+                    "content": "Cultura y Gastronomía",
+                    "title": "Nuestra Cultura y Gastronomía"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/europa/espana/circuitos/",
+                    "content": "Haz un viaje organizado",
+                    "title": "Haz un viaje organizado"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/con-tu-coche/rutas-en-coche/",
+                    "content": "Viaja con tu coche",
+                    "title": "Rutas por España con tu coche"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Top Destinos",
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/europa/turquia/",
+                    "content": "Turquía",
+                    "title": "Viajes por Turquía"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/asia/jordania/",
+                    "content": "Jordania",
+                    "title": "Oferta viajes a Jordania"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/europa/francia/",
+                    "content": "Francia",
+                    "title": "Grandes Viajes a Francia"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/europa/portugal/",
+                    "content": "Portugal",
+                    "title": "Viajes a Portugal"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/america/estados-unidos-eeuu/",
+                    "content": "Estados Unidos",
+                    "title": "Viajes por EE.UU."
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/america/costa-rica/",
+                    "content": "Costa Rica",
+                    "title": "Viajes a Costa Rica"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/europa/islandia/rutas-en-coche/",
+                    "content": "Islandia",
+                    "title": "Viajes a Islandia"
+                  }
+                ],
+                "skin": ""
+              },
+              {
+                "headings": {
+                  "items": [
+                    {
+                      "title": null,
+                      "content": "Destacados",
+                      "priority": 1
+                    }
+                  ]
+                },
+                "links": [
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/ultima-hora/chollo/",
+                    "content": "Chollos Última Hora",
+                    "title": "Chollos Última Hora de Grandes Viajes"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/semana-santa/",
+                    "content": "Semana Santa",
+                    "title": "Las mejores ofertas para viajar en Semana Santa "
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/verano/",
+                    "content": "Verano",
+                    "title": "Las mejores ofertas para viajar en verano"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/mayores-de-55/",
+                    "content": "Especial Senior +60",
+                    "title": "Los mejores Circuitos a precios exclusivos"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/circuitos/",
+                    "content": "Mes del Circuito",
+                    "title": "¡Circuitos al mejor precio!"
+                  },
+                  {
+                    "href": "https://www.logitravel.com/grandes-viajes/de-ensueno/",
+                    "content": "Viajes de Ensueño",
+                    "title": "Descubre destinos de ensueño"
+                  }
+                ],
+                "skin": ""
+              }
+            ]
+          },
+          "extra_content": {
+            "image": {
+              "src": "/comun/images/bannersDyn/logi/logi_explorador.png",
+              "alt": ""
+            },
+            "descriptions": {
+              "items": [
+                {
+                  "content": "Cada persona es un mundo y hay más de una manera de descubrirlo: ¡**Circuitos**, **Viajes Combinados** y **Rutas en coche**!"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "more_products": {
+        "content": "Más Productos",
+        "href": ""
+      }
+    },
+    "user": {
+      "label": {
+        "content": "Bienvenido"
+      },
+      "logged": {
+        "user_name": {
+          "href": "#",
+          "content": "Alvaro",
+          "title": "Alvaro"
+        },
+        "session_code": "6e85f9db-8bd7-408c-82ab-3520013c94b8",
+        "logout_url": "/myaccount/account/logout",
+        "logout": {
+          "href": "#",
+          "content": "Cerrar Sesión",
+          "title": "Cerrar Sesión",
+          "config": {
+            "type": "button",
+            "style": "btn-secondary js-logout",
+            "data_toggle": true
+          }
+        },
+        "profile": {
+          "content": "Ver Perfil",
+          "icon": "nico-user",
+          "href": "https://www.logitravel.com/myaccount/home",
+          "title": "Ver Perfil"
+        },
+        "bookings": {
+          "content": "Mis Reservas",
+          "icon": "nico-suitcase",
+          "href": "https://www.logitravel.com/myaccount/bookings",
+          "title": "Mis Reservas"
+        },
+        "searches": {
+          "content": "Mis Presupuestos",
+          "icon": "nico-document",
+          "href": "https://www.logitravel.com/myaccount/quotes",
+          "title": "Mis Presupuestos"
+        },
+        "links": [
+          {
+            "content": "Ver Perfil",
+            "icon": "nico-user",
+            "href": "https://www.logitravel.com/myaccount/home",
+            "title": "Ver Perfil"
+          },
+          {
+            "content": "Mis Reservas",
+            "icon": "nico-suitcase",
+            "href": "https://www.logitravel.com/myaccount/bookings",
+            "title": "Mis Reservas"
+          },
+          {
+            "content": "Mis Presupuestos",
+            "icon": "nico-document",
+            "href": "https://www.logitravel.com/myaccount/quotes",
+            "title": "Mis Presupuestos"
+          }
+        ]
+      }
+    },
+    "options": {
+      "location": {
+        "label": {
+          "content": "Origen"
+        },
+        "selected": "Mallorca (PMI)",
+        "options": {
+          "label": {
+            "content": "Elige tu aeropuerto más cercano"
+          },
+          "origins": [
+            {
+              "value": "LCG",
+              "content": "A Coruña",
+              "selected": false
+            },
+            {
+              "value": "ALC",
+              "content": "Alicante",
+              "selected": false
+            },
+            {
+              "value": "LEI",
+              "content": "Almería",
+              "selected": false
+            },
+            {
+              "value": "OVD",
+              "content": "Asturias ",
+              "selected": false
+            },
+            {
+              "value": "BJZ",
+              "content": "Badajoz",
+              "selected": false
+            },
+            {
+              "value": "BCN",
+              "content": "Barcelona",
+              "selected": false
+            },
+            {
+              "value": "BIO",
+              "content": "Bilbao",
+              "selected": false
+            },
+            {
+              "value": "RGS",
+              "content": "Burgos",
+              "selected": false
+            },
+            {
+              "value": "CDT",
+              "content": "Castellón ",
+              "selected": false
+            },
+            {
+              "value": "VDE",
+              "content": "El Hierro",
+              "selected": false
+            },
+            {
+              "value": "FUE",
+              "content": "Fuerteventura",
+              "selected": false
+            },
+            {
+              "value": "GRO",
+              "content": "Girona ",
+              "selected": false
+            },
+            {
+              "value": "LPA",
+              "content": "Gran Canaria",
+              "selected": false
+            },
+            {
+              "value": "GRX",
+              "content": "Granada",
+              "selected": false
+            },
+            {
+              "value": "IBZ",
+              "content": "Ibiza",
+              "selected": false
+            },
+            {
+              "value": "XRY",
+              "content": "Jerez",
+              "selected": false
+            },
+            {
+              "value": "GMZ",
+              "content": "La Gomera",
+              "selected": false
+            },
+            {
+              "value": "SPC",
+              "content": "La Palma",
+              "selected": false
+            },
+            {
+              "value": "ACE",
+              "content": "Lanzarote",
+              "selected": false
+            },
+            {
+              "value": "LEN",
+              "content": "León",
+              "selected": false
+            },
+            {
+              "value": "ILD",
+              "content": "Lleida",
+              "selected": false
+            },
+            {
+              "value": "RJL",
+              "content": "Logroño",
+              "selected": false
+            },
+            {
+              "value": "MAD",
+              "content": "Madrid",
+              "selected": false
+            },
+            {
+              "value": "AGP",
+              "content": "Málaga",
+              "selected": false
+            },
+            {
+              "value": "PMI",
+              "content": "Mallorca",
+              "selected": true
+            },
+            {
+              "value": "MLN",
+              "content": "Melilla",
+              "selected": false
+            },
+            {
+              "value": "MAH",
+              "content": "Menorca",
+              "selected": false
+            },
+            {
+              "value": "MJV",
+              "content": "Murcia",
+              "selected": false
+            },
+            {
+              "value": "PNA",
+              "content": "Pamplona",
+              "selected": false
+            },
+            {
+              "value": "REU",
+              "content": "Reus",
+              "selected": false
+            },
+            {
+              "value": "SLM",
+              "content": "Salamanca",
+              "selected": false
+            },
+            {
+              "value": "EAS",
+              "content": "San Sebastián",
+              "selected": false
+            },
+            {
+              "value": "SDR",
+              "content": "Santander",
+              "selected": false
+            },
+            {
+              "value": "SCQ",
+              "content": "Santiago de Compostela ",
+              "selected": false
+            },
+            {
+              "value": "SVQ",
+              "content": "Sevilla",
+              "selected": false
+            },
+            {
+              "value": "TCI",
+              "content": "Tenerife",
+              "selected": false
+            },
+            {
+              "value": "VLC",
+              "content": "Valencia",
+              "selected": false
+            },
+            {
+              "value": "VLL",
+              "content": "Valladolid",
+              "selected": false
+            },
+            {
+              "value": "VGO",
+              "content": "Vigo",
+              "selected": false
+            },
+            {
+              "value": "VIT",
+              "content": "Vitoria",
+              "selected": false
+            },
+            {
+              "value": "ZAZ",
+              "content": "Zaragoza",
+              "selected": false
+            }
+          ],
+          "origin_url": "/mybookings/origin/setorigin"
+        }
+      },
+      "currency_url": "/CommonComponents/MultiContext/SetCurrency",
+      "currencies": [
+        {
+          "title": "EUR",
+          "content": "EUR **€**",
+          "code": "€",
+          "abbr": "EUR",
+          "active": true
+        }
+      ],
+      "language_url": "/CommonComponents/MultiContext/SetLanguage",
+      "languages": [
+        {
+          "title": "es-ES",
+          "code": "ES",
+          "display_code": "es",
+          "flag": "es-squared",
+          "content": "Spanish (Spain) ",
+          "active": true
+        }
+      ]
+    },
+    "literals": {
+      "loginModalTitle": "¡Hola de nuevo!",
+      "loginModalDescription": "Estamos encantados de volver a verte. **Inicia sesión** para ver tus ofertas y promociones.",
+      "loginModalFooterText": "**¿Todavía sin cuenta?** Eso tiene fácil solución: ",
+      "loginModalButtonText": "Iniciar sesión ",
+      "loginModalLinkText": "crea tu cuenta",
+      "loginModalNewUserTitle": "¡Bienvenido a Logitravel!",
+      "loginModalNewUserDescription": "Estamos encantados de verte por aquí. **Regístrate** para ver tus ofertas y promociones únicas para clientes registrados.",
+      "loginModalNewUserFooterText": "**¿Ya tienes cuenta?** Entonces, tan sólo tienes que:",
+      "loginModalNewUserButtonText": "Crear cuenta"
+    },
+    "restrictions": {
+      "title": "INFÓRMATE SOBRE LOS",
+      "image": "/comun/images/maps/world-map-gray.png",
+      "link": {
+        "href": "https://www.logitravel.com/covid/restricciones-para-viajar/",
+        "title": "REQUISITOS DE VIAJE",
+        "content": "REQUISITOS DE VIAJE",
+        "target": "_blank"
+      }
+    }
+  },
+  "headerBanner": {
+    "items": [
+      {
+        "src": "https://cdn.logitravel.com/contenidosShared/banners/marca_1/linea_9/seccion_5698/banner_1514906.jpg?v=20220218120003",
+        "link": {
+          "href": "https://www.logitravel.com/grandes-viajes/circuitos/",
+          "title": "Mes-del-Circuito",
+          "target": "_self"
+        }
+      },
+      {
+        "src": "https://cdn.logitravel.com/contenidosShared/banners/marca_1/linea_9/seccion_5698/banner_1514997.jpg?v=20220209085007",
+        "link": {
+          "href": "https://www.logitravel.com/grandes-viajes/asia/jordania/circuitos/",
+          "title": "MDC-Destino2",
+          "target": "_self"
+        }
+      },
+      {
+        "src": "https://cdn.logitravel.com/contenidosShared/banners/marca_1/linea_9/seccion_5698/banner_1516332.jpg?v=20220309120007",
+        "link": {
+          "href": "https://www.logitravel.com/grandes-viajes/de-ensueno/",
+          "title": "Viajes de Ensueño",
+          "target": "_self"
+        }
+      },
+      {
+        "src": "https://cdn.logitravel.com/contenidosShared/banners/marca_1/linea_9/seccion_5698/banner_1516689.jpg?v=20220315153006",
+        "link": {
+          "href": "https://www.logitravel.com/grandes-viajes/semana-santa/",
+          "title": "¡Anticípate y ahorra para viajar en Semana Santa!",
+          "target": "_self"
+        }
+      },
+      {
+        "src": "https://cdn.logitravel.com/contenidosShared/banners/marca_1/linea_9/seccion_5698/banner_1516246.jpg?v=15032022122607",
+        "link": {
+          "href": "https://www.logitravel.com/grandes-viajes/agosto/a-tu-aire/",
+          "title": "ES-COM-VERANO A TU AIRE GV",
+          "target": "_self"
+        }
+      },
+      {
+        "src": "https://cdn.logitravel.com/contenidosShared/banners/marca_1/linea_9/seccion_5698/banner_1514989.jpg?v=15032022122542",
+        "link": {
+          "href": "https://www.logitravel.com/grandes-viajes/africa/egipto/circuitos/",
+          "title": "MDC-Destino1",
+          "target": "_self"
+        }
+      },
+      {
+        "src": "https://cdn.logitravel.com/contenidosShared/banners/marca_1/linea_9/seccion_5698/banner_1514993.jpg?v=15032022122516",
+        "link": {
+          "href": "https://www.logitravel.com/grandes-viajes/asia/maldivas/circuitos/",
+          "title": "MDC-Destino3",
+          "target": "_self"
+        }
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "items": [
+      {
+        "content": "Grandes Viajes"
+      }
+    ],
+    "actives": [
+      {
+        "content": "Europa",
+        "link": {
+          "href": "/grandes-viajes/europa/",
+          "title": "Europa"
+        }
+      },
+      {
+        "content": "América",
+        "link": {
+          "href": "/grandes-viajes/america/",
+          "title": "América"
+        }
+      },
+      {
+        "content": "África",
+        "link": {
+          "href": "/grandes-viajes/africa/",
+          "title": "África"
+        }
+      },
+      {
+        "content": "Asia",
+        "link": {
+          "href": "/grandes-viajes/asia/",
+          "title": "Asia"
+        }
+      }
+    ],
+    "ldjson": {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": "https://www.logitravel.com/grandes-viajes/europa/",
+          "name": "Europa"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": "https://www.logitravel.com/grandes-viajes/america/",
+          "name": "América"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": "https://www.logitravel.com/grandes-viajes/africa/",
+          "name": "África"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": "https://www.logitravel.com/grandes-viajes/asia/",
+          "name": "Asia"
+        }
+      ]
+    }
+  },
+  "tabsCarousel": {
+    "config": {
+      "literals": {
+        "viewMore": "Ver más",
+        "messageError": "Lo sentimos, se ha producido un error.",
+        "from": "desde",
+        "moreInfo": "Itinerario",
+        "summary": "Resumen"
+      }
+    },
+    "title": "Grandes Viajes más Populares",
+    "description": "Circuitos con traslados y guías incluidos, Viajes Combinados de 2 o más destinos y Rutas en Coche con vuelos, hoteles y coche de alquiler",
+    "items": [
+      {
+        "title": "Semana Santa",
+        "items": [
+          {
+            "config": {
+              "deal": true,
+              "icon": "car-routes"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/portugal/rutas-en-coche/a-tu-aire-en-coche/portugal-escapada-en-coche-a-oporto-y-alrededores-4-dias.html?cam=1",
+              "title": "Portugal",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/1006389/900_900.jpg?32A61FBFB9FB1029C8908F5088840C47",
+              "alternative": "/cloudcontent/fotos/tours/alex/1006389/1920_375.jpg?1944925642",
+              "alt": "Escapada en coche a Oporto y alrededores",
+              "title": "Escapada en coche a Oporto y alrededores"
+            },
+            "title": "Escapada en coche a Oporto y alrededores",
+            "subtitle": "Portugal, 4 días",
+            "productType": "A tu aire en coche",
+            "descriptions": [
+              {
+                "content": "Salida el 14/4/2022 desde Palma De Mallorca"
+              }
+            ],
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/1006389/1200x600.jpg?32A61FBFB9FB1029C8908F5088840C47",
+              "alternative": "/cloudcontent/fotos/tours/maps/1006389/1200x600.jpg?32A61FBFB9FB1029C8908F5088840C47",
+              "alt": "Escapada en coche a Oporto y alrededores",
+              "title": "Escapada en coche a Oporto y alrededores"
+            },
+            "moreInfo": [
+              {
+                "content": "Oporto, Vila Do Conde, Esposende, Braga, Guimaraes, Amarante, Castelo De Paiva, Espinho"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "car",
+                "description": "Coche de alquiler"
+              }
+            ],
+            "price": {
+              "value": 535,
+              "market_value": 802,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 34
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Portugal, 4 Días",
+              "image": "/cloudcontent/fotos/tours/alex/1006389/1920_375.jpg?1944925642",
+              "description": "Escapada en coche a Oporto y alrededores, a tu aire en coche",
+              "mpn": "LG-ES-RUT-PROD-1006389-PMI-1",
+              "sku": "LG-ES-RUT-PROD-1006389-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/portugal/rutas-en-coche/a-tu-aire-en-coche/portugal-escapada-en-coche-a-oporto-y-alrededores-4-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 535,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/portugal/rutas-en-coche/a-tu-aire-en-coche/portugal-escapada-en-coche-a-oporto-y-alrededores-4-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              }
+            }
+          },
+          {
+            "config": {
+              "safe": false,
+              "deal": true,
+              "icon": "map-markers"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/francia/combinados/a-tu-aire-flexible-en-noches/francia-paris-y-disneyland-7-dias.html?cam=1",
+              "title": "Francia",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/38454/900_900.jpg?22A1A85458FE09847147C2C937935865",
+              "alternative": "/cloudcontent/fotos/tours/alex/38454/1920_375.jpg?1583099275",
+              "alt": "París y Disneyland",
+              "title": "París y Disneyland"
+            },
+            "title": "París y Disneyland",
+            "subtitle": "Francia, 7 días",
+            "productType": "A tu aire flexible en noches",
+            "descriptions": [
+              {
+                "content": "Salida el 14/4/2022 desde Palma De Mallorca"
+              }
+            ],
+            "reviews": {
+              "number": 10,
+              "content": "Excelente",
+              "icon": "thumbs-up"
+            },
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/38454/1200x600.jpg?22A1A85458FE09847147C2C937935865",
+              "alternative": "/cloudcontent/fotos/tours/maps/38454/1200x600.jpg?22A1A85458FE09847147C2C937935865",
+              "alt": "París y Disneyland",
+              "title": "París y Disneyland"
+            },
+            "moreInfo": [
+              {
+                "content": "París, Disneyland Resort Paris"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "transfer",
+                "description": "Traslados"
+              }
+            ],
+            "price": {
+              "value": 454,
+              "market_value": 590,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 24
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Francia, 7 Días",
+              "image": "/cloudcontent/fotos/tours/alex/38454/1920_375.jpg?1583099275",
+              "description": "París y Disneyland, a tu aire flexible en noches",
+              "mpn": "LG-ES-COM-PROD-38454-PMI-1",
+              "sku": "LG-ES-COM-PROD-38454-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/francia/combinados/a-tu-aire-flexible-en-noches/francia-paris-y-disneyland-7-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 454,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/francia/combinados/a-tu-aire-flexible-en-noches/francia-paris-y-disneyland-7-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 10,
+                "bestRating": 10,
+                "worstRating": 0,
+                "reviewCount": 81
+              }
+            }
+          },
+          {
+            "config": {
+              "safe": false,
+              "deal": true,
+              "icon": "car-routes"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/italia/rutas-en-coche/a-tu-aire-en-coche/italia-ruta-por-los-idilicos-lagos-del-norte-de-milan-a-verona-6-dias.html?cam=1",
+              "title": "Italia",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/41370/900_900.jpg?8D8164964456C8A69F18A0720E79382A",
+              "alternative": "/cloudcontent/fotos/tours/alex/41370/1920_375.jpg?-1875359403",
+              "alt": "Ruta por los idílicos Lagos del Norte, de Milán a Verona",
+              "title": "Ruta por los idílicos Lagos del Norte, de Milán a Verona"
+            },
+            "title": "Ruta por los idílicos Lagos del Norte, de Milán a Verona",
+            "subtitle": "Italia, 6 días",
+            "productType": "A tu aire en coche",
+            "descriptions": [
+              {
+                "content": "Salida el 14/4/2022 desde Palma De Mallorca"
+              }
+            ],
+            "reviews": {
+              "number": 9,
+              "content": "Excelente",
+              "icon": "thumbs-up"
+            },
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/41370/1200x600.jpg?8D8164964456C8A69F18A0720E79382A",
+              "alternative": "/cloudcontent/fotos/tours/maps/41370/1200x600.jpg?8D8164964456C8A69F18A0720E79382A",
+              "alt": "Ruta por los idílicos Lagos del Norte, de Milán a Verona",
+              "title": "Ruta por los idílicos Lagos del Norte, de Milán a Verona"
+            },
+            "moreInfo": [
+              {
+                "content": "Milán, Orta San Giulio, Arona, Stresa, Isola Superiore, Como, Lecco, Bellagio, Bérgamo, Brescia, Sirmione, Desenzano del Garda, Verona, Módena, Parma, Piacenza"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "car",
+                "description": "Coche de alquiler"
+              }
+            ],
+            "price": {
+              "value": 470,
+              "market_value": 606,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 23
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Italia, 6 Días",
+              "image": "/cloudcontent/fotos/tours/alex/41370/1920_375.jpg?-1875359403",
+              "description": "Ruta por los idílicos Lagos del Norte, de Milán a Verona, a tu aire en coche",
+              "mpn": "LG-ES-RUT-PROD-41370-PMI-1",
+              "sku": "LG-ES-RUT-PROD-41370-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/italia/rutas-en-coche/a-tu-aire-en-coche/italia-ruta-por-los-idilicos-lagos-del-norte-de-milan-a-verona-6-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 470,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/italia/rutas-en-coche/a-tu-aire-en-coche/italia-ruta-por-los-idilicos-lagos-del-norte-de-milan-a-verona-6-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 9,
+                "bestRating": 10,
+                "worstRating": 0,
+                "reviewCount": 15
+              }
+            }
+          },
+          {
+            "config": {
+              "safe": false,
+              "deal": false,
+              "icon": "car-routes"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/irlanda/rutas-en-coche/a-tu-aire-en-coche/irlanda-ruta-por-el-suroeste-de-la-isla-esmeralda-i-5-dias.html?cam=1",
+              "title": "Irlanda",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/1000437/900_900.jpg?490CFF76A8872C6C2164509F3FC1B166",
+              "alternative": "/cloudcontent/fotos/tours/alex/1000437/1920_375.jpg?-548181644",
+              "alt": "Ruta por el Suroeste de la Isla Esmeralda I",
+              "title": "Ruta por el Suroeste de la Isla Esmeralda I"
+            },
+            "title": "Ruta por el Suroeste de la Isla Esmeralda I",
+            "subtitle": "Irlanda, 5 días",
+            "productType": "A tu aire en coche",
+            "descriptions": [
+              {
+                "content": "Salida el 13/4/2022 desde Palma De Mallorca"
+              }
+            ],
+            "reviews": {
+              "number": 9,
+              "content": "Excelente",
+              "icon": "thumbs-up"
+            },
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/1000437/1200x600.jpg?490CFF76A8872C6C2164509F3FC1B166",
+              "alternative": "/cloudcontent/fotos/tours/maps/1000437/1200x600.jpg?490CFF76A8872C6C2164509F3FC1B166",
+              "alt": "Ruta por el Suroeste de la Isla Esmeralda I",
+              "title": "Ruta por el Suroeste de la Isla Esmeralda I"
+            },
+            "moreInfo": [
+              {
+                "content": "Dublín, Kildare, Tipperary, Cashel, Killarney, Killorglin, Cahersiveen, Waterville, Sneem, Limerick"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "car",
+                "description": "Coche de alquiler"
+              }
+            ],
+            "price": {
+              "value": 470,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 0
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Irlanda, 5 Días",
+              "image": "/cloudcontent/fotos/tours/alex/1000437/1920_375.jpg?-548181644",
+              "description": "Ruta por el Suroeste de la Isla Esmeralda I, a tu aire en coche",
+              "mpn": "LG-ES-RUT-PROD-1000437-PMI-1",
+              "sku": "LG-ES-RUT-PROD-1000437-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/irlanda/rutas-en-coche/a-tu-aire-en-coche/irlanda-ruta-por-el-suroeste-de-la-isla-esmeralda-i-5-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 470,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/irlanda/rutas-en-coche/a-tu-aire-en-coche/irlanda-ruta-por-el-suroeste-de-la-isla-esmeralda-i-5-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 9,
+                "bestRating": 10,
+                "worstRating": 0,
+                "reviewCount": 15
+              }
+            }
+          },
+          {
+            "config": {
+              "safe": false,
+              "deal": true,
+              "icon": "map-markers"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/combinados/a-tu-aire-flexible-en-noches/centroeuropa-budapest-y-praga-en-avion-7-dias.html?cam=1",
+              "title": "Centroeuropa",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/1013488/900_900.jpg?-1994171392",
+              "alternative": "/cloudcontent/fotos/tours/alex/1013488/1920_375.jpg?-1994171392",
+              "alt": "Budapest y Praga en avión",
+              "title": "Budapest y Praga en avión"
+            },
+            "title": "Budapest y Praga en avión",
+            "subtitle": "Centroeuropa, 7 días",
+            "productType": "A tu aire flexible en noches",
+            "descriptions": [
+              {
+                "content": "Salida el 11/4/2022 desde Palma De Mallorca"
+              }
+            ],
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/1013488/1200x600.jpg?20C47B2ADED2CDC36D380A50AF1070A5",
+              "alternative": "/cloudcontent/fotos/tours/maps/1013488/1200x600.jpg?20C47B2ADED2CDC36D380A50AF1070A5",
+              "alt": "Budapest y Praga en avión",
+              "title": "Budapest y Praga en avión"
+            },
+            "moreInfo": [
+              {
+                "content": "Budapest, Praga"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "transfer",
+                "description": "Traslados"
+              }
+            ],
+            "price": {
+              "value": 467,
+              "market_value": 518,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 10
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Centroeuropa, 7 Días",
+              "image": "/cloudcontent/fotos/tours/alex/1013488/1920_375.jpg?-1994171392",
+              "description": "Budapest y Praga en avión, a tu aire flexible en noches",
+              "mpn": "LG-ES-COM-PROD-1013488-PMI-1",
+              "sku": "LG-ES-COM-PROD-1013488-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/combinados/a-tu-aire-flexible-en-noches/centroeuropa-budapest-y-praga-en-avion-7-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 467,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/combinados/a-tu-aire-flexible-en-noches/centroeuropa-budapest-y-praga-en-avion-7-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              }
+            }
+          },
+          {
+            "config": {
+              "safe": false,
+              "deal": true,
+              "icon": "car-routes"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/italia/rutas-en-coche/a-tu-aire-en-coche/italia-escapada-en-coche-por-la-toscana-5-dias.html?cam=1",
+              "title": "Italia",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/1006374/900_900.jpg?83CAE7978C27DFBEB6480636C266D10B",
+              "alternative": "/cloudcontent/fotos/tours/alex/1006374/1920_375.jpg?-1917481030",
+              "alt": "Escapada en coche por la Toscana",
+              "title": "Escapada en coche por la Toscana"
+            },
+            "title": "Escapada en coche por la Toscana",
+            "subtitle": "Italia, 5 días",
+            "productType": "A tu aire en coche",
+            "descriptions": [
+              {
+                "content": "Salida el 14/4/2022 desde Palma De Mallorca"
+              }
+            ],
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/1006374/1200x600.jpg?83CAE7978C27DFBEB6480636C266D10B",
+              "alternative": "/cloudcontent/fotos/tours/maps/1006374/1200x600.jpg?83CAE7978C27DFBEB6480636C266D10B",
+              "alt": "Escapada en coche por la Toscana",
+              "title": "Escapada en coche por la Toscana"
+            },
+            "moreInfo": [
+              {
+                "content": "Florencia, Prato, Montecatini Terme, Lucca, Pisa, Cecina, Volterra, San Gimignano, Monteriggioni"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "car",
+                "description": "Coche de alquiler"
+              }
+            ],
+            "price": {
+              "value": 772,
+              "market_value": 903,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 15
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Italia, 5 Días",
+              "image": "/cloudcontent/fotos/tours/alex/1006374/1920_375.jpg?-1917481030",
+              "description": "Escapada en coche por la Toscana, a tu aire en coche",
+              "mpn": "LG-ES-RUT-PROD-1006374-PMI-1",
+              "sku": "LG-ES-RUT-PROD-1006374-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/italia/rutas-en-coche/a-tu-aire-en-coche/italia-escapada-en-coche-por-la-toscana-5-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 772,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/italia/rutas-en-coche/a-tu-aire-en-coche/italia-escapada-en-coche-por-la-toscana-5-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              }
+            }
+          },
+          {
+            "config": {
+              "safe": false,
+              "deal": false,
+              "icon": "car-routes"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/islandia/rutas-en-coche/a-tu-aire-en-coche/islandia-ruta-por-el-sur-de-la-isla-de-hielo-6-dias.html?cam=1",
+              "title": "Islandia",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/41398/900_900.jpg?A1BCEFB0781FFC06071111012B15916F",
+              "alternative": "/cloudcontent/fotos/tours/alex/41398/1920_375.jpg?1556202035",
+              "alt": "Ruta por el Sur de la Isla de Hielo",
+              "title": "Ruta por el Sur de la Isla de Hielo"
+            },
+            "title": "Ruta por el Sur de la Isla de Hielo",
+            "subtitle": "Islandia, 6 días",
+            "productType": "A tu aire en coche",
+            "descriptions": [
+              {
+                "content": "Salida el 14/4/2022 desde Palma De Mallorca"
+              }
+            ],
+            "reviews": {
+              "number": 9,
+              "content": "Excelente",
+              "icon": "thumbs-up"
+            },
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/41398/1200x600.jpg?A1BCEFB0781FFC06071111012B15916F",
+              "alternative": "/cloudcontent/fotos/tours/maps/41398/1200x600.jpg?A1BCEFB0781FFC06071111012B15916F",
+              "alt": "Ruta por el Sur de la Isla de Hielo",
+              "title": "Ruta por el Sur de la Isla de Hielo"
+            },
+            "moreInfo": [
+              {
+                "content": "Reykjavik, Vik, Skaftafell, Kirkjubæjarklaustur"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "car",
+                "description": "Coche de alquiler"
+              }
+            ],
+            "price": {
+              "value": 1195,
+              "market_value": 1290,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 8
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Islandia, 6 Días",
+              "image": "/cloudcontent/fotos/tours/alex/41398/1920_375.jpg?1556202035",
+              "description": "Ruta por el Sur de la Isla de Hielo, a tu aire en coche",
+              "mpn": "LG-ES-RUT-PROD-41398-PMI-1",
+              "sku": "LG-ES-RUT-PROD-41398-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/islandia/rutas-en-coche/a-tu-aire-en-coche/islandia-ruta-por-el-sur-de-la-isla-de-hielo-6-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 1195,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/islandia/rutas-en-coche/a-tu-aire-en-coche/islandia-ruta-por-el-sur-de-la-isla-de-hielo-6-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 9,
+                "bestRating": 10,
+                "worstRating": 0,
+                "reviewCount": 31
+              }
+            }
+          },
+          {
+            "config": {
+              "safe": false,
+              "deal": true,
+              "icon": "map-markers"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/italia/combinados/a-tu-aire-flexible-en-noches/italia-roma-y-venecia-en-avion-7-dias.html?cam=1",
+              "title": "Italia",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/1000691/900_900.jpg?7FFDDB14C03FD88E2F55CD0C7BA603BC",
+              "alternative": "/cloudcontent/fotos/tours/alex/1000691/1920_375.jpg?611153185",
+              "alt": "Roma y Venecia en avión",
+              "title": "Roma y Venecia en avión"
+            },
+            "title": "Roma y Venecia en avión",
+            "subtitle": "Italia, 7 días",
+            "productType": "A tu aire flexible en noches",
+            "descriptions": [
+              {
+                "content": "Salida el 14/4/2022 desde Palma De Mallorca"
+              }
+            ],
+            "reviews": {
+              "number": 9,
+              "content": "Excelente",
+              "icon": "thumbs-up"
+            },
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/1000691/1200x600.jpg?7FFDDB14C03FD88E2F55CD0C7BA603BC",
+              "alternative": "/cloudcontent/fotos/tours/maps/1000691/1200x600.jpg?7FFDDB14C03FD88E2F55CD0C7BA603BC",
+              "alt": "Roma y Venecia en avión",
+              "title": "Roma y Venecia en avión"
+            },
+            "moreInfo": [
+              {
+                "content": "Roma, Venecia"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "transfer",
+                "description": "Traslados"
+              }
+            ],
+            "price": {
+              "value": 565,
+              "market_value": 700,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 20
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Italia, 7 Días",
+              "image": "/cloudcontent/fotos/tours/alex/1000691/1920_375.jpg?611153185",
+              "description": "Roma y Venecia en avión, a tu aire flexible en noches",
+              "mpn": "LG-ES-COM-PROD-1000691-PMI-1",
+              "sku": "LG-ES-COM-PROD-1000691-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/italia/combinados/a-tu-aire-flexible-en-noches/italia-roma-y-venecia-en-avion-7-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 565,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/italia/combinados/a-tu-aire-flexible-en-noches/italia-roma-y-venecia-en-avion-7-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 9,
+                "bestRating": 10,
+                "worstRating": 0,
+                "reviewCount": 11
+              }
+            }
+          },
+          {
+            "config": {
+              "safe": false,
+              "deal": true,
+              "icon": "car-routes"
+            },
+            "link": {
+              "href": "/grandes-viajes/europa/francia/rutas-en-coche/a-tu-aire-en-coche/francia-ruta-de-los-cataros-5-dias.html?cam=1",
+              "title": "Francia",
+              "target": "_self"
+            },
+            "image": {
+              "src": "/cloudcontent/fotos/tours/alex/1001629/900_900.jpg?A8674C2F21B049C465E3AD09A014374E",
+              "alternative": "/cloudcontent/fotos/tours/alex/1001629/1920_375.jpg?-1357116338",
+              "alt": "Ruta de los Cátaros",
+              "title": "Ruta de los Cátaros"
+            },
+            "title": "Ruta de los Cátaros",
+            "subtitle": "Francia, 5 días",
+            "productType": "A tu aire en coche",
+            "descriptions": [
+              {
+                "content": "Salida el 14/4/2022 desde Madrid"
+              }
+            ],
+            "secondaryImage": {
+              "src": "/cloudcontent/fotos/tours/maps/1001629/1200x600.jpg?A8674C2F21B049C465E3AD09A014374E",
+              "alternative": "/cloudcontent/fotos/tours/maps/1001629/1200x600.jpg?A8674C2F21B049C465E3AD09A014374E",
+              "alt": "Ruta de los Cátaros",
+              "title": "Ruta de los Cátaros"
+            },
+            "moreInfo": [
+              {
+                "content": "Toulouse, Castelnaudary, Carcasona, Duilhac - Sous - Peyrepertuse, Castres, Lautrec, Albi, Cordes-sur-Ciel"
+              }
+            ],
+            "icons": [
+              {
+                "icon": "plane",
+                "description": "Vuelos de ida y vuelta"
+              },
+              {
+                "icon": "info",
+                "description": "Seguro básico de viaje"
+              },
+              {
+                "icon": "car",
+                "description": "Coche de alquiler"
+              }
+            ],
+            "price": {
+              "value": 576,
+              "market_value": 783,
+              "currency": "EUR",
+              "from": "desde",
+              "discount": 27
+            },
+            "ldjson": {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "Francia, 5 Días",
+              "image": "/cloudcontent/fotos/tours/alex/1001629/1920_375.jpg?-1357116338",
+              "description": "Ruta de los Cátaros, a tu aire en coche",
+              "mpn": "LG-ES-RUT-PROD-1001629-PMI-1",
+              "sku": "LG-ES-RUT-PROD-1001629-PMI-1",
+              "url": "https://www.logitravel.com/grandes-viajes/europa/francia/rutas-en-coche/a-tu-aire-en-coche/francia-ruta-de-los-cataros-5-dias.html?cam=1",
+              "brand": {
+                "@type": "Thing",
+                "name": "logitravel"
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "price": 576,
+                "url": "https://www.logitravel.com/grandes-viajes/europa/francia/rutas-en-coche/a-tu-aire-en-coche/francia-ruta-de-los-cataros-5-dias.html?cam=1",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "logitravel"
+                }
+              }
+            }
+          }
+        ],
+        "viewMore": {
+          "href": "/grandes-viajes/semana-santa/",
+          "target": "_self",
+          "content": "Ver mas"
+        },
+        "banner": {
+          "src": "/microsites/logicms/images/campaigns/202203/gv_semanasanta_es-1.jpg",
+          "title": "Semana Santa"
+        }
+      },
+      {
+        "title": "Verano ",
+        "link": "/grandes-viajes/verano/",
+        "params": [
+          {
+            "key": "Id",
+            "value": "5eec6d0e0b2faf01004edc38"
+          },
+          {
+            "key": "cmp_Add",
+            "value": "64"
+          },
+          {
+            "key": "img",
+            "value": "images/campaigns/202202/gv_veranova_cir.jpg"
+          },
+          {
+            "key": "NumProducts",
+            "value": "9"
+          }
+        ]
+      },
+      {
+        "title": "Ofertas Última Hora",
+        "link": "/grandes-viajes/ultima-hora/",
+        "params": [
+          {
+            "key": "Id",
+            "value": "5eec6d0e0b2faf01004edc38"
+          },
+          {
+            "key": "cmp_Add",
+            "value": "38"
+          },
+          {
+            "key": "img",
+            "value": "images/campaigns/202001/cam_varios.jpg"
+          },
+          {
+            "key": "NumProducts",
+            "value": "9"
+          }
+        ]
+      },
+      {
+        "title": "Mayo",
+        "link": "/grandes-viajes/mayo/",
+        "params": [
+          {
+            "key": "Id",
+            "value": "5eec6d0e0b2faf01004edc38"
+          },
+          {
+            "key": "cmp_Add",
+            "value": "130"
+          },
+          {
+            "key": "img",
+            "value": "images/campaigns/202202/des_sicilia_2.jpg"
+          },
+          {
+            "key": "NumProducts",
+            "value": "9"
+          }
+        ]
+      }
+    ]
+  },
+  "searcher": {
+    "config": {
+      "endpoints": {
+        "level1": "/holidaytoursalex/events/inspirationallevelonetree",
+        "level2": "/holidaytoursalex/events/inspirationalleveltwotree",
+        "counter": "/holidaytoursalex/events/inspirationalsearchcounttree"
+      },
+      "urlSubmit": "/holidaytoursalex/results"
+    },
+    "lob": [
+      {
+        "value": 0,
+        "label": "Todos los viajes",
+        "checked": true
+      },
+      {
+        "value": 2,
+        "label": "Circuitos",
+        "checked": false
+      },
+      {
+        "value": 41,
+        "label": "Combinados",
+        "checked": false
+      },
+      {
+        "value": 40,
+        "label": "Rutas en Coche",
+        "checked": false
+      }
+    ],
+    "destination": 0
+  },
+  "flipCards": {
+    "title": "Nuestras opciones de viaje",
+    "items": [
+      {
+        "title": "Circuitos",
+        "description": "Circuitos con traslados, visitas... y nuestro experto asesoramiento",
+        "image": "https://cdn.logitravel.com/cloudcontent/fotos/tours/headerdefault/2.jpg",
+        "link": {
+          "href": "/grandes-viajes/circuitos/",
+          "target": "_blank",
+          "content": "Ver todo"
+        }
+      },
+      {
+        "title": "Combinados",
+        "description": "Viaje combinando 2 o más destinos de forma totalmente flexible y personalizable",
+        "image": "https://cdn.logitravel.com/cloudcontent/fotos/tours/headerdefault/41.jpg",
+        "link": {
+          "href": "/grandes-viajes/combinados/",
+          "target": "_blank",
+          "content": "Ver todo"
+        }
+      },
+      {
+        "title": "Viajar En Coche",
+        "description": "Recorridos a tu aire en coche que incluyen el vuelo, los hoteles y el coche de alquiler",
+        "image": "https://cdn.logitravel.com/cloudcontent/fotos/tours/headerdefault/40.jpg",
+        "link": {
+          "href": "/grandes-viajes/rutas-en-coche/",
+          "target": "_blank",
+          "content": "Ver todo"
+        }
+      }
+    ]
+  },
+  "features": {
+    "title": "Razones por las cuales tu ** Gran Viaje ** empieza aquí",
+    "items": [
+      {
+        "icon": "earth-arrow",
+        "title": "Expertos en Grandes Viajes ",
+        "content": "** Circuitos, Viajes Combinados y Rutas en Coche ** diseñados para que recorras los mejores destinos."
+      },
+      {
+        "icon": "certificate",
+        "title": "Viaja tranquilo y seguro",
+        "content": "Reserva ** 100% online ** con total confianza. Nuestros Grandes Viajes incluyen un ** seguro de viaje. **"
+      },
+      {
+        "icon": "mouse",
+        "title": "Ahorra tiempo",
+        "content": "Obtén disponibilidad y precio al momento, con ** confirmación inmediata ** de tu reserva."
+      },
+      {
+        "icon": "assistant",
+        "title": "Siempre disponibles para ti",
+        "content": "Desde el momento en que cotizas estamos contigo. ** Asistencia 24/7/365 ** antes y durante tu viaje."
+      },
+      {
+        "icon": "promo-label",
+        "title": "Ofertas y facilidades de pago",
+        "content": "Encuentra tu Gran Viaje al precio que buscas, con ** las mejores ofertas y facilidades de pago. **"
+      }
+    ]
+  }
+}
